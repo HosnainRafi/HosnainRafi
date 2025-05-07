@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on Problem solving
 
-- 🌱 I’m currently learning **next js**
-
 - 👯 I’m looking to collaborate on [Road Eagles](https://road-eagles.web.app/)
 
 - 🤝 I’m also working on [Holiday Hype](https://holiday-hype.web.app/)
