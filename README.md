@@ -2,10 +2,10 @@
 <hr/>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Hosnain+Rafi!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Hosnain+Rafi!;Full+Stack+Developer;Software+Engineer;MERN+Stack+Developer;Node.js+Developer;ERPNext+Developer;" />
 </h1>
 
-<h3 align="center">A passionate Full-Stack Developer | MERN Stack | Angular | TypeScript</h3>
+<h3 align="center">A passionate Full-Stack Developer | Software Engineer</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=hosnainrafi&label=Profile%20views&color=0e75b6&style=flat" alt="hosnainrafi" /> </p>
 
@@ -13,13 +13,13 @@
 
 <div align="center">
 
- 🔭 I'm currently working as a **Software Engineer** at **Mortgage Magic Ltd**, London
+🔭 I'm currently working as a **Software Engineer** at **Mortgage Magic Ltd**, London
 
- 🎓 Graduated from **Mawlana Bhashani Science and Technology University** — B.Sc. in ICT (CGPA: 3.72/4.00)
+🎓 Graduated from **Mawlana Bhashani Science and Technology University** — B.Sc. in ICT (CGPA: 3.72/4.00)
 
- 🌱 I'm currently deepening my skills in **Next.js** and **advanced TypeScript**
+🌱 I'm currently deepening my skills in **Backend** and **DevOps**
 
- 💬 Ask me about **React, Angular, Node.js, MongoDB, Firebase... or anything [here](https://github.com/HosnainRafi)**
+💬 Ask me about **React, Angular, Node.js, MongoDB, Firebase... or anything [here](mailto:rhosnain@gmail.com)**
 
 </div>
 
@@ -59,25 +59,16 @@
 <br/>
 <div align="center">
 
-| Project | Description | Tech Stack | Links |
-|---|---|---|---|
-| 🏥 **Doctors BD** | Telemedicine platform with AI-powered symptom analysis & real-time video consultations | React, Node.js, WebRTC, Firebase | [Live](https://doctors-bd-frontend.vercel.app/) · [GitHub](https://github.com/HosnainRafi/Doctors_BD_Frontend) |
-| 🩸 **Life Sync Blood Donation** | Platform connecting blood donors with recipients, 60% faster donor response time | React, Node.js, MongoDB, Firebase | [Live](https://life-sync-fab40.web.app/) · [GitHub](https://github.com/HosnainRafi/Life-Sync-Client) |
-| 🏍️ **Road Eagles** | Full-featured motorcycle marketplace with admin panel & secure authentication | React, Node.js, MongoDB, Express | [Live](https://road-eagles.web.app/) · [GitHub](https://github.com/HosnainRafi/road-eagles-client) |
-| ✈️ **Travel Hype** | Travel booking platform with user dashboard & booking management | React, Node.js, MongoDB, Bootstrap | [Live](https://holiday-hype.web.app/) · [GitHub](https://github.com/HosnainRafi/holiday-hype-client) |
+| Project                         | Description                                                                            | Tech Stack                         | Links                                                                                                          |
+| ------------------------------- | -------------------------------------------------------------------------------------- | ---------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| 🏥 **Doctors BD**               | Telemedicine platform with AI-powered symptom analysis & real-time video consultations | React, Node.js, WebRTC, Firebase   | [Live](https://doctors-bd-frontend.vercel.app/) · [GitHub](https://github.com/HosnainRafi/Doctors_BD_Frontend) |
+| 🩸 **Life Sync Blood Donation** | Platform connecting blood donors with recipients, 60% faster donor response time       | React, Node.js, MongoDB, Firebase  | [Live](https://life-sync-fab40.web.app/) · [GitHub](https://github.com/HosnainRafi/Life-Sync-Client)           |
+| 🏍️ **Road Eagles**              | Full-featured motorcycle marketplace with admin panel & secure authentication          | React, Node.js, MongoDB, Express   | [Live](https://road-eagles.web.app/) · [GitHub](https://github.com/HosnainRafi/road-eagles-client)             |
+| ✈️ **Travel Hype**              | Travel booking platform with user dashboard & booking management                       | React, Node.js, MongoDB, Bootstrap | [Live](https://holiday-hype.web.app/) · [GitHub](https://github.com/HosnainRafi/holiday-hype-client)           |
 
 </div>
 
 <br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/HosnainRafi/HosnainRafi/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
-</div>
-
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
